@@ -1,3 +1,2 @@
 # calculadora
-calculadora de forma glass en html csss javascript
-qye
+calculadora de forma glass en html css
